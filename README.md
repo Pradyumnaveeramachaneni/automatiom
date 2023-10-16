@@ -1,1 +1,1 @@
-# automatiom
+# automation
